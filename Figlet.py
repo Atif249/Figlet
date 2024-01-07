@@ -1,5 +1,4 @@
-'''import pyfiglet'''
-
+import pyfiglet
 import os
 
 os.system("clear")
